@@ -132,6 +132,8 @@
   "preferences-screen.preference.only-show-nametags-in-freeze": "Mostrar nomes de usuário apenas quando congelado",
   "preferences-screen.preference.prefer-mobile-object-info-panel": "Painel de informações do objeto selecionado",
   "preferences-screen.preference.preferred-camera": "Câmera preferida",
+  "preferences-screen.preference.preferred-mic": "Preferred mic",
+  "preferences-screen.preference.preferred-mic.default": "None",
   "preferences-screen.preference.snap-rotation-degrees": "Rotação das teclas Q e E (em graus)",
   "preferences-screen.prompt-for-refresh": "Suas preferências estão salvas, mas algumas de suas alterações não terão efeito até que você atualize a página.",
   "preferences-screen.refresh-now": "Atualizar agora",

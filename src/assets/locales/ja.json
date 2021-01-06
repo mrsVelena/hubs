@@ -132,6 +132,8 @@
   "preferences-screen.preference.only-show-nametags-in-freeze": "フリーズ中の名前タグのみを表示",
   "preferences-screen.preference.prefer-mobile-object-info-panel": "モバイルオブジェクト情報パネルを優先する",
   "preferences-screen.preference.preferred-camera": "優先カメラ",
+  "preferences-screen.preference.preferred-mic": "Preferred mic",
+  "preferences-screen.preference.preferred-mic.default": "None",
   "preferences-screen.preference.show-fps-counter": "Show FPS Counter",
   "preferences-screen.preference.show-rtc-debug-panel": "Show RTC Panel",
   "preferences-screen.preference.snap-rotation-degrees": "スナップごとの回転（度単位）",

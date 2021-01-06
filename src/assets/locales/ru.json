@@ -136,6 +136,8 @@
   "preferences-screen.preference.only-show-nametags-in-freeze": "Показывать имена пользователей только в режиме контекстного меню",
   "preferences-screen.preference.prefer-mobile-object-info-panel": "Предпочитать мобильные панели для отображения информации об объектах",
   "preferences-screen.preference.preferred-camera": "Предпочтительная камера",
+  "preferences-screen.preference.preferred-mic": "Preferred mic",
+  "preferences-screen.preference.preferred-mic.default": "None",
   "preferences-screen.preference.snap-rotation-degrees": "Поворот по долям (в градусах)",
   "preferences-screen.prompt-for-refresh": "Ваши настройки сохранены, однако для отображения некоторых изменений требуется перезагрузить страницу.",
   "preferences-screen.refresh-now": "Перезагрузить",
